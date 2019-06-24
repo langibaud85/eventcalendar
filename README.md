@@ -27,8 +27,7 @@
     
 4-lancement
 
-    Modifier localhost par votre serveur codeigniter
-
-    http://localhost/eventcalendar/index.php/SendingMail
-    
+   Appellez le controler SendingMail
+   
+   
     
